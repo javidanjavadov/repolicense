@@ -19,5 +19,12 @@
         "expiry_date": "2026-03-28 22:00:53",
         "plan": "1 Year",
         "active": false
+    },
+    {
+        "license_key": "SPECTRA-QqZCaaFFsNCkCJ10hwQDxw",
+        "hwid": null,
+        "expiry_date": "2299-01-10 22:00:56",
+        "plan": "Lifetime",
+        "active": false
     }
 ]
