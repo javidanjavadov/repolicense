@@ -26,5 +26,26 @@
         "expiry_date": "2025-06-27 17:58:13",
         "plan": "3 Months",
         "active": false
+    },
+    {
+        "license_key": "SPECTRA-Rgj3t56ZPlEjpyMQl6gE5g",
+        "hwid": null,
+        "expiry_date": "2025-06-27 18:03:35",
+        "plan": "3 Months",
+        "active": false
+    },
+    {
+        "license_key": "SPECTRA-RL1fS1oAyjCiE_hZa_ugWw",
+        "hwid": null,
+        "expiry_date": "2299-01-11 18:03:39",
+        "plan": "Lifetime",
+        "active": false
+    },
+    {
+        "license_key": "SPECTRA-yIL4Xiw_jqXH0gTD8x877A",
+        "hwid": null,
+        "expiry_date": "2025-04-05 18:03:42",
+        "plan": "1 Week",
+        "active": false
     }
 ]
