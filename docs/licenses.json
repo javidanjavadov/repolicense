@@ -6,5 +6,13 @@
         "plan": "1 Month",
         "active": false,
         "created_at": "2025-03-29 18:20:26"
+    },
+    {
+        "license_key": "SPECTRA-7QoRLvgzzxcV2AxrOQr1zQ",
+        "hwid": null,
+        "expiry_date": "2025-06-27 18:20:31",
+        "plan": "3 Months",
+        "active": false,
+        "created_at": "2025-03-29 18:20:31"
     }
 ]
