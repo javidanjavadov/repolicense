@@ -30,5 +30,13 @@
         "plan": "Lifetime",
         "active": true,
         "created_at": "2025-04-23 11:08:04"
+    },
+    {
+        "license_key": "SPECTRA-bMz33E6AIzv-nScn-BHnl3",
+        "hwid": "Not assigned",
+        "expiry_date": "2025-04-26 15:10:29",
+        "plan": "3 Days",
+        "active": true,
+        "created_at": "2025-04-23 11:10:29"
     }
 ]
